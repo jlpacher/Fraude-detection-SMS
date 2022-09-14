@@ -1,4 +1,4 @@
-# Fraude detection in SMS messages using NLP techniques and GaussianNB classifiyer.
+# Fraude detection in SMS messages using NLP techniques and GaussianNB classifier.
 
 Python code to SMS messages with possible classification as: 'OK' or 'BLOCKED'.
 
